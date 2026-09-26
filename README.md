@@ -1,22 +1,30 @@
-# Hi, I'm Dion Stacey Sellar 👋
+# Dion Stacey Sellar
 
-I'm a Software Engineering undergraduate at NSBM Green University, studying for a University of Plymouth degree. I build practical projects with Python, JavaScript, and React, and I'm interested in software development and AI.
+**Software Engineering undergraduate · NSBM Green University / University of Plymouth**
 
-## Projects
+I build practical software projects with Python, JavaScript and React. My interests include developer tools, useful web applications and local AI assistants.
 
-| Project | What I've built | Links |
-| --- | --- | --- |
-| **JARVIS AI Assistant** | A Windows desktop assistant project with voice interaction, desktop commands, memory, and optional local Ollama responses. The repository also includes screen capture and vision modules. | [Code](https://github.com/dionstacey03-dev/JARVIS-AI-Assistant) |
-| **CampusAI** | A React and Vite student dashboard with a subjects page that lets users add subjects and keeps them in browser storage. Study planner and AI assistant pages are in progress. | [Code](https://github.com/dionstacey03-dev/CampusAI) |
-| **AI Smart Tourism Planner** | A Sri Lanka itinerary prototype that uses traveler preferences and rule-based planning to create day-by-day plans. It does not yet use a live AI model. | [Code](https://github.com/dionstacey03-dev/AI-Smart-Tourism-Planner) · [Demo](https://ai-smart-tourism-planner.vercel.app) |
-| **Developer Portfolio** | A responsive React and Vite site for my projects, skills, and background. | [Code](https://github.com/dionstacey03-dev/Dion-Portfolio-) · [Live site](https://dion-portfolio-sigma.vercel.app) |
+## Selected projects
 
-## Skills and tools
+### [JARVIS AI Assistant](https://github.com/dionstacey03-dev/JARVIS-AI-Assistant)
+A Windows desktop assistant built with Python. It supports voice interaction, desktop commands and memory, with optional local responses through Ollama. The repository also includes screen capture and vision modules.
 
-Python · Java · JavaScript · React · Vite · HTML/CSS · SQL · Git/GitHub · Ollama
+### [CampusAI](https://github.com/dionstacey03-dev/CampusAI)
+A student dashboard built with React and Vite. The subjects page supports adding subjects and saves them in browser storage. The study planner and AI assistant pages are still in development.
 
-I'm currently improving my software engineering fundamentals and building out CampusAI. I enjoy learning through projects and explaining what I learn as I go.
+### [Smart Tourism Planner](https://github.com/dionstacey03-dev/AI-Smart-Tourism-Planner)
+A Sri Lanka travel itinerary prototype that uses preferences and rule-based planning to create day-by-day plans. It does not currently use a live AI model. [Try the demo](https://ai-smart-tourism-planner.vercel.app).
+
+### [Developer Portfolio](https://github.com/dionstacey03-dev/Dion-Portfolio-)
+A responsive React and Vite site featuring my projects, skills and background. [View the site](https://dion-portfolio-sigma.vercel.app).
+
+## Skills
+
+**Languages:** Python, Java, JavaScript, HTML/CSS, SQL  
+**Tools:** React, Vite, Git, GitHub, Ollama
+
+I'm currently strengthening my software engineering fundamentals and developing CampusAI.
 
 ## Connect
 
-[Portfolio](https://dion-portfolio-sigma.vercel.app) · [LinkedIn](https://www.linkedin.com/in/dion-stacey-sellar-1066a7339/) · [GitHub](https://github.com/dionstacey03-dev)
+[Portfolio](https://dion-portfolio-sigma.vercel.app) · [LinkedIn](https://www.linkedin.com/in/dion-stacey-sellar-1066a7339/) · [Email](mailto:dion.stacey03@gmail.com)
