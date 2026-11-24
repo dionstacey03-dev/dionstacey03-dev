@@ -19,19 +19,53 @@
 
 ---
 
-## 👋 About Me
+<!-- ===================== ABOUT ME ===================== -->
+<h2 align="center">👋 A Little About Me</h2>
 
-I'm **Dion Stacey Sellar**, a Software Engineering undergraduate at **NSBM Green University**, following a **BSc (Hons) Software Engineering degree from the University of Plymouth**.
+<p align="center">
+  <strong>Hey, I'm Dion Stacey Sellar.</strong><br/>
+  Software Engineering undergraduate at <strong>NSBM Green University</strong>, following a<br/>
+  <strong>BSc (Hons) Software Engineering degree from the University of Plymouth.</strong>
+</p>
 
-I enjoy taking ideas from concept to implementation — building responsive web applications, exploring AI-powered tools, and learning how reliable software systems fit together. I care about practical functionality, thoughtful interfaces, maintainable code, and continuously improving what I build.
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Full--Stack%20Development-0F172A?style=for-the-badge&logo=code&logoColor=22D3EE" alt="Full-stack development focus" />
+  <img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20Computer%20Vision-0F172A?style=for-the-badge&logo=人工智能&logoColor=22D3EE" alt="AI and computer vision" />
+  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Always learning" />
+</p>
 
-- 🎓 Software Engineering undergraduate | NSBM Green University
-- 💻 Interested in full-stack development, AI applications, and computer vision
-- 🧠 Exploring local LLMs, AI-assisted workflows, and backend architecture
-- 🛠️ Building projects that combine useful features with polished user experiences
-- 🌱 Always learning, experimenting, and improving
+<p align="center">
+  I turn ideas into practical software — from responsive web experiences to AI-powered tools and<br/>
+  backend systems. I enjoy the full journey: exploring a problem, designing a solution, building it,<br/>
+  testing the details, and making each iteration better than the last.
+</p>
 
-> **My approach:** Build with curiosity. Engineer with care. Improve with every iteration.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 What I'm Learning</h3>
+      <p>Software engineering foundations, full-stack development, backend architecture, API design, and database systems.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 What I'm Exploring</h3>
+      <p>AI applications, local LLMs, computer vision, AI-assisted workflows, and useful ways to bring intelligent features into software.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ What I Like Building</h3>
+      <p>Responsive web apps, developer tools, productivity platforms, and end-to-end projects with thoughtful user experiences.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 How I Work</h3>
+      <p>Stay curious, write maintainable code, test what I build, learn from mistakes, and keep improving through real projects.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <em>“Build with curiosity. Engineer with care. Improve with every iteration.”</em>
+</p>
 
 ## 🚀 Featured Projects
 
