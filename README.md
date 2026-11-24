@@ -69,17 +69,44 @@ I love the process of taking an idea from its first sketch to a working product.
   </tr>
 </table>
 
+<h3 align="center">⚡ WHAT I'M INTO RIGHT NOW</h3>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h2>🌐</h2>
+      <strong>FULL-STACK</strong><br/>
+      <sub>End-to-end web apps</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🤖</h2>
+      <strong>ARTIFICIAL INTELLIGENCE</strong><br/>
+      <sub>Useful AI-powered tools</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>👁️</h2>
+      <strong>COMPUTER VISION</strong><br/>
+      <sub>Visual intelligence</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>⚙️</h2>
+      <strong>BACKEND ENGINEERING</strong><br/>
+      <sub>Reliable systems & APIs</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <div align="center">
 
-<strong>CURRENT INTERESTS</strong>
+<strong>MY ENGINEERING MINDSET</strong>
 
-<br/><br/>
+<blockquote>
+  <p><em>“Build with curiosity. Engineer with care. Make every iteration count.”</em></p>
+</blockquote>
 
-<code>Full-Stack Development</code> · <code>Artificial Intelligence</code> · <code>Computer Vision</code> · <code>Backend Engineering</code>
-
-<br/><br/>
-
-<em>“Build with curiosity. Engineer with care. Make every iteration count.”</em>
+<sub>ALWAYS EXPLORING · ALWAYS BUILDING · ALWAYS IMPROVING</sub>
 
 </div>
 
