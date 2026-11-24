@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:06B6D4&height=220&section=header&text=DION%20STACEY%20SELLAR&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descSize=15" width="100%" alt="Dion Stacey Sellar profile banner" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Dion Stacey Sellar — Software Engineering, Full-Stack and AI" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+useful+software%2C+one+idea+at+a+time.;Exploring+AI%2C+full-stack+systems+%26+developer+tools.;Turning+curiosity+into+working+products." alt="Typing introduction" />
@@ -153,6 +153,6 @@ I'm always happy to connect with developers, learn from other builders, and expl
 
 *Keep building. Keep learning. Keep shipping.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:172554,100:0B1020&height=100&section=footer" width="100%" alt="Footer banner" />
+<sub>© Dion Stacey Sellar · Designed and built with curiosity.</sub>
 
 </div>
