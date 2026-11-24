@@ -20,52 +20,68 @@
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
-<h2 align="center">👋 A Little About Me</h2>
+<h2 align="center">👋 Hello, I'm Dion</h2>
 
-<p align="center">
+<div align="center">
+
+<strong>SOFTWARE ENGINEERING UNDERGRADUATE · FULL-STACK DEVELOPER · AI ENTHUSIAST</strong>
+
+<br/><br/>
+
+<p>
   <strong>Hey, I'm Dion Stacey Sellar.</strong><br/>
-  Software Engineering undergraduate at <strong>NSBM Green University</strong>, following a<br/>
-  <strong>BSc (Hons) Software Engineering degree from the University of Plymouth.</strong>
+  I'm studying Software Engineering at <strong>NSBM Green University</strong>,<br/>
+  following a <strong>BSc (Hons) Software Engineering degree from the University of Plymouth.</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Full--Stack%20Development-0F172A?style=for-the-badge&logo=code&logoColor=22D3EE" alt="Full-stack development focus" />
-  <img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20Computer%20Vision-0F172A?style=for-the-badge&logo=brain&logoColor=22D3EE" alt="AI and computer vision" />
-  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Always learning" />
+<p>
+  <em>I enjoy turning ambitious ideas into useful, thoughtfully engineered software.</em>
 </p>
 
-<p align="center">
-  I turn ideas into practical software — from responsive web experiences to AI-powered tools and<br/>
-  backend systems. I enjoy the full journey: exploring a problem, designing a solution, building it,<br/>
-  testing the details, and making each iteration better than the last.
-</p>
+</div>
+
+---
+
+### ✦ A little about what drives me
+
+I love the process of taking an idea from its first sketch to a working product. Whether I'm building a responsive web application, experimenting with AI, or strengthening a backend, I focus on making software useful, reliable, and enjoyable to use.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 What I'm Learning</h3>
-      <p>Software engineering foundations, full-stack development, backend architecture, API design, and database systems.</p>
+      <h3>⚡ WHAT I BUILD</h3>
+      <p>Full-stack web applications, productivity tools, developer experiences, and practical software that solves real problems.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 What I'm Exploring</h3>
-      <p>AI applications, local LLMs, computer vision, AI-assisted workflows, and useful ways to bring intelligent features into software.</p>
+      <h3>🤖 WHAT I'M EXPLORING</h3>
+      <p>AI-powered applications, local LLMs, computer vision, and intelligent workflows that make software more capable.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ What I Like Building</h3>
-      <p>Responsive web apps, developer tools, productivity platforms, and end-to-end projects with thoughtful user experiences.</p>
+      <h3>🧩 WHAT I'M LEARNING</h3>
+      <p>Backend architecture, API design, databases, software quality, and the engineering principles behind reliable systems.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 How I Work</h3>
-      <p>Stay curious, write maintainable code, test what I build, learn from mistakes, and keep improving through real projects.</p>
+      <h3>🌱 HOW I WORK</h3>
+      <p>Stay curious, build consistently, test carefully, learn from feedback, and improve every iteration.</p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <em>“Build with curiosity. Engineer with care. Improve with every iteration.”</em>
-</p>
+<div align="center">
+
+<strong>CURRENT INTERESTS</strong>
+
+<br/><br/>
+
+<code>Full-Stack Development</code> · <code>Artificial Intelligence</code> · <code>Computer Vision</code> · <code>Backend Engineering</code>
+
+<br/><br/>
+
+<em>“Build with curiosity. Engineer with care. Make every iteration count.”</em>
+
+</div>
 
 ## 🚀 Featured Projects
 
