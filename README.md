@@ -69,9 +69,11 @@ I love the process of taking an idea from its first sketch to a working product.
   </tr>
 </table>
 
-<h3 align="center">⚡ WHAT I'M INTO RIGHT NOW</h3>
+<div align="center">
 
-<table>
+<h3>⚡ WHAT I'M INTO RIGHT NOW</h3>
+
+<table align="center" width="90%">
   <tr>
     <td align="center" width="25%">
       <h2>🌐</h2>
@@ -95,6 +97,8 @@ I love the process of taking an idea from its first sketch to a working product.
     </td>
   </tr>
 </table>
+
+</div>
 
 <br/>
 
