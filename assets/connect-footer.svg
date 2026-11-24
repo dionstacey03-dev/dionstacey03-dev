@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+<title id="t">Let's build something meaningful</title>
+<desc id="d">A dark futuristic contact banner with cyan and violet gradients.</desc>
+<defs>
+ <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D1B"/><stop offset=".55" stop-color="#142B52"/><stop offset="1" stop-color="#073B55"/></linearGradient>
+ <linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+ <pattern id="p" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#BAE6FD" stroke-opacity=".07"/></pattern>
+ <filter id="g"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1200" height="260" rx="24" fill="url(#b)"/>
+<rect width="1200" height="260" rx="24" fill="url(#p)"/>
+<circle cx="1020" cy="120" r="110" fill="#22D3EE" opacity=".13" filter="url(#g)"/>
+<circle cx="1090" cy="180" r="80" fill="#818CF8" opacity=".16" filter="url(#g)"/>
+<path d="M0 220 C250 170 420 280 660 205 S1000 165 1200 205" fill="none" stroke="url(#l)" stroke-width="2" opacity=".6"/>
+<g transform="translate(940 74)" fill="none" stroke="#67E8F9" stroke-width="3" opacity=".8">
+ <path d="M0 0h68l28 28v68H28L0 68z"/><path d="M22 28L9 48l13 20M72 28l13 20-13 20M58 18L38 78"/>
+ <circle cx="48" cy="48" r="68" stroke-opacity=".2"/>
+</g>
+<text x="72" y="91" fill="#67E8F9" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">OPEN TO IDEAS · COLLABORATION · GOOD CONVERSATIONS</text>
+<text x="72" y="151" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="43" font-weight="750">Let's build something meaningful.</text>
+<rect x="74" y="177" width="115" height="4" rx="2" fill="url(#l)"/>
+<text x="74" y="213" fill="#C7D2FE" font-family="Arial,sans-serif" font-size="18">Have an idea? A project? Just want to talk tech? Reach out.</text>
+</svg>
