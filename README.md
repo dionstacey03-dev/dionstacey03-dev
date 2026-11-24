@@ -253,15 +253,20 @@ A selection of projects across AI, productivity, computer vision, and full-stack
 
 <br/>
 
-<h2 align="center">Thanks for stopping by.</h2>
-<p align="center">
-  <strong>BUILD BOLDLY <img src="https://img.shields.io/badge/•-0B1220?style=flat-square" alt="" /> STAY CURIOUS <img src="https://img.shields.io/badge/•-0B1220?style=flat-square" alt="" /> SHIP WITH PURPOSE.</strong>
+<div align="center">
+
+<h2>✦ THANKS FOR STOPPING BY ✦</h2>
+
+<img src="./assets/signature-footer.svg" width="100%" alt="Build boldly. Stay curious. Ship with purpose. — Dion Stacey Sellar" />
+
+<p>
+  <img src="https://img.shields.io/badge/MADE_WITH-CURIOSITY-0B1220?style=for-the-badge&labelColor=111827&color=164E63" alt="Made with curiosity" />
+  <img src="https://img.shields.io/badge/DRIVEN_BY-COFFEE-0B1220?style=for-the-badge&labelColor=111827&color=3730A3" alt="Driven by coffee" />
+  <img src="https://img.shields.io/badge/FOCUSED_ON-IMPACT-0B1220?style=for-the-badge&labelColor=111827&color=0E7490" alt="Focused on impact" />
 </p>
 
-<p align="center">
-  <sub>Designed with intention · Built with curiosity · Powered by ☕</sub>
-  <br/>
-  <sub>© 2026 <strong>Dion Stacey Sellar</strong> · Thanks for being part of the journey.</sub>
-</p>
+<sub>© 2026 <strong>Dion Stacey Sellar</strong> · Designed with intention. Built with curiosity.</sub>
+
+</div>
 
 </div>
