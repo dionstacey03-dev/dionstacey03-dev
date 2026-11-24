@@ -223,7 +223,9 @@ A selection of projects across AI, productivity, computer vision, and full-stack
 
 </div>
 
-<table>
+<div align="center">
+
+<table align="center" width="90%">
   <tr>
     <td align="center" width="33%">
       <h2>💻</h2>
@@ -242,6 +244,8 @@ A selection of projects across AI, productivity, computer vision, and full-stack
     </td>
   </tr>
 </table>
+
+</div>
 
 <div align="center">
 
