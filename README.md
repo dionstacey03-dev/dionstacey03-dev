@@ -166,12 +166,23 @@ A selection of projects across AI, productivity, computer vision, and full-stack
 ### 🏆 Contribution Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dionstacey03-dev&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub profile trophies" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dionstacey03-dev&bg_color=0b1220&color=67e8f9&line=22d3ee&point=818cf8&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+<strong>Every commit is a step forward.</strong>
+
+<p>
+  I use GitHub to document my learning, build practical projects, and improve through consistent iteration.
+</p>
+
+<a href="https://github.com/dionstacey03-dev?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-My%20Repositories-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore my repositories" />
+</a>
+<a href="https://github.com/dionstacey03-dev?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="https://img.shields.io/badge/VIEW-GitHub%20Activity-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View GitHub activity" />
+</a>
+
 </div>
 
-<sub>Contribution visuals are powered by community-maintained services and may occasionally be unavailable or delayed.</sub>
+<sub>For the most reliable contribution history, use the native contribution calendar on my GitHub profile.</sub>
 
 ## 🎯 Current Focus
 
