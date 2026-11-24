@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Build boldly. Stay curious. Ship with purpose.</title>
+  <desc id="desc">A premium dark navy signature panel with cyan and violet light trails and a minimal code-inspired emblem.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D1B"/><stop offset=".52" stop-color="#111E38"/><stop offset="1" stop-color="#082F49"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset=".52" stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#BAE6FD" stroke-opacity=".055"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="1200" height="230" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="230" rx="24" fill="url(#grid)"/>
+  <circle cx="180" cy="30" r="100" fill="#22D3EE" opacity=".12" filter="url(#glow)"/>
+  <circle cx="1030" cy="190" r="125" fill="#818CF8" opacity=".13" filter="url(#glow)"/>
+  <path d="M0 190C210 140 360 240 590 175S960 125 1200 175" fill="none" stroke="url(#shine)" stroke-width="2" opacity=".55"/>
+  <path d="M0 202C220 152 370 252 600 187S970 137 1200 187" fill="none" stroke="#67E8F9" stroke-width="1" opacity=".18"/>
+  <g transform="translate(72 67)">
+    <rect x="0" y="0" width="5" height="94" rx="2.5" fill="url(#shine)"/>
+    <text x="28" y="32" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">THE DEVELOPER MINDSET</text>
+    <text x="28" y="83" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="39" font-weight="800" letter-spacing=".3">BUILD BOLDLY.</text>
+    <text x="355" y="83" fill="#67E8F9" font-family="Arial,sans-serif" font-size="39" font-weight="800" letter-spacing=".3">STAY CURIOUS.</text>
+    <text x="748" y="83" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="39" font-weight="800" letter-spacing=".3">SHIP WITH PURPOSE.</text>
+    <text x="29" y="125" fill="#A5B4FC" font-family="Arial,sans-serif" font-size="17">Every idea is a starting point. Every iteration is progress.</text>
+  </g>
+  <g transform="translate(1070 42)" fill="none" stroke="#67E8F9" stroke-width="2.5" opacity=".8">
+    <path d="M0 0h52l22 22v52H22L0 52z"/>
+    <path d="M18 24L8 37l10 13M56 24l10 13-10 13M46 15L29 59"/>
+  </g>
+  <circle cx="1150" cy="166" r="3" fill="#67E8F9"/><circle cx="1120" cy="190" r="2" fill="#A78BFA"/>
+</svg>
