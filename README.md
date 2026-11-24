@@ -214,27 +214,54 @@ A selection of projects across AI, productivity, computer vision, and full-stack
 
 <br/>
 
+<h3 align="center">✦ THE NEXT GREAT THING STARTS WITH A CONVERSATION ✦</h3>
+
 <table>
   <tr>
-    <td align="center" width="33%">
-      <strong>💡 HAVE AN IDEA?</strong><br/>
-      <sub>Let's explore what we can create.</sub>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <h2>💡</h2>
+      <strong>HAVE AN IDEA?</strong>
+      <br/><br/>
+      <sub>Got a concept worth building? Let's turn that spark into something real.</sub>
+      <br/><br/>
+      <a href="mailto:dion.stacey03@gmail.com?subject=I%20have%20an%20idea">LET'S TALK ↗</a>
+      <br/><br/>
     </td>
-    <td align="center" width="33%">
-      <strong>🤝 WANT TO COLLABORATE?</strong><br/>
-      <sub>I'm always glad to meet fellow builders.</sub>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <h2>🤝</h2>
+      <strong>LET'S COLLABORATE</strong>
+      <br/><br/>
+      <sub>Open to meeting creative minds, exchanging ideas, and building useful things together.</sub>
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/dion-stacey-sellar-1066a7339/">CONNECT WITH ME ↗</a>
+      <br/><br/>
     </td>
-    <td align="center" width="33%">
-      <strong>☕ JUST SAY HELLO</strong><br/>
-      <sub>Good conversations start anywhere.</sub>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <h2>☕</h2>
+      <strong>JUST SAY HELLO</strong>
+      <br/><br/>
+      <sub>Tech chat, feedback, questions, or a friendly hello — my inbox is open.</sub>
+      <br/><br/>
+      <a href="mailto:dion.stacey03@gmail.com?subject=Hello%20Dion">SAY HELLO ↗</a>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
-### Thanks for visiting my corner of GitHub.
+<br/>
 
-**Build boldly. Stay curious. Ship with purpose.**
+<h2 align="center">Thanks for stopping by.</h2>
+<p align="center">
+  <strong>BUILD BOLDLY <img src="https://img.shields.io/badge/•-0B1220?style=flat-square" alt="" /> STAY CURIOUS <img src="https://img.shields.io/badge/•-0B1220?style=flat-square" alt="" /> SHIP WITH PURPOSE.</strong>
+</p>
 
-<sub>© 2026 Dion Stacey Sellar · Crafted with curiosity and a lot of ☕</sub>
+<p align="center">
+  <sub>Designed with intention · Built with curiosity · Powered by ☕</sub>
+  <br/>
+  <sub>© 2026 <strong>Dion Stacey Sellar</strong> · Thanks for being part of the journey.</sub>
+</p>
 
 </div>
