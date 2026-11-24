@@ -139,20 +139,47 @@ A selection of projects across AI, productivity, computer vision, and full-stack
 
 ## 🤝 Let's Connect
 
-I'm always happy to connect with developers, learn from other builders, and explore interesting opportunities.
-
-<p align="center">
-  <a href="https://dion-portfolio-sigma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/dion-stacey-sellar-1066a7339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dion.stacey03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 <div align="center">
 
-### Thanks for stopping by!
+<img src="./assets/connect-footer.svg" width="100%" alt="Let's build something meaningful — contact Dion Stacey Sellar" />
 
-*Keep building. Keep learning. Keep shipping.*
+<br/>
 
-<sub>© Dion Stacey Sellar · Designed and built with curiosity.</sub>
+<p>
+  <a href="https://dion-portfolio-sigma.vercel.app">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Explore my portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/dion-stacey-sellar-1066a7339/">
+    <img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:dion.stacey03@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Send me an email" />
+  </a>
+</p>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>💡 HAVE AN IDEA?</strong><br/>
+      <sub>Let's explore what we can create.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>🤝 WANT TO COLLABORATE?</strong><br/>
+      <sub>I'm always glad to meet fellow builders.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>☕ JUST SAY HELLO</strong><br/>
+      <sub>Good conversations start anywhere.</sub>
+    </td>
+  </tr>
+</table>
+
+### Thanks for visiting my corner of GitHub.
+
+**Build boldly. Stay curious. Ship with purpose.**
+
+<sub>© 2026 Dion Stacey Sellar · Crafted with curiosity and a lot of ☕</sub>
 
 </div>
